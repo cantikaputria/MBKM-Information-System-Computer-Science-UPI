@@ -11,13 +11,16 @@
 5. Virza Raihan Kurniawan
 
 ### Role
+* **Student:** Students have access to view the MBKM program, submit recommendation letter requests, input their participating MBKM programs, update program status, and request course conversion.
+* **Academic Advisor (Dosen Wali):** Academic advisors can monitor students' MBKM program status, approve recommendation letter requests, and authorize course conversion submissions.
+* **Administrator:** Administrators are responsible for verifying recommendation letters and reviewing course conversion proposals.
 
 ### Features
-* **Student Database:** Maintain a comprehensive student database, including student profiles, enrollment information, and MBKM participation records.
-* **Assessment Tracking:** Track and record student assessments based on competency-based learning outcomes.
-* **Reports and Analytics:** Generate insightful reports and analytics to monitor the performance of the MBKM program and identify areas for improvement.
-* **Program Status and Information:** Students can access up-to-date information about the status of their MBKM programs. The website provides details on ongoing programs and requirements.
-* **Course Conversion Request:** Students can request the conversion of certain courses to fulfill MBKM program requirements. They can submit the necessary details and documentation for approval.
-* **Recommendation letter:** The system allows students to submit recommendation letters. Advisor and administrators can review submissions to determine acceptance or rejection. 
+* **Student Database:** Maintain a comprehensive student database with profiles, enrollment, and MBKM participation records.
+* **Assessment Tracking:** Monitor and record student assessments based on competency-based learning outcomes.
+* **Reports and Analytics:** Generate insightful reports to assess MBKM program performance and identify areas for enhancement.
+* **Program Status and Information:** Students access up-to-date MBKM program details and requirements.
+* **Course Conversion Request:** Students can seek course conversion for MBKM program fulfillment.
+* **Recommendation Letter Submission and Approval:** Students submit letters, advisors and admins review submissions for acceptance or rejection.
 
 ### Live Demo
